@@ -5,6 +5,8 @@ https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-u
 
 app.py and /templates are where most of the code is
 
+## Images:
+
 ![Front page](front_page.jpg)
 
 View of a post's page (displayed with GET)
